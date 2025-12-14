@@ -1,6 +1,6 @@
 # Analisis-de-suicidio
 
-#  Laboratorio 4: Segmentación de Salud Mental y Suicidio Global (Clustering)
+#  Tarea y Laboratorio 4: Segmentación de Salud Mental y Suicidio Global (Clustering)
 
 ##  Descripción del Proyecto
 
